@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033761519799-734vurpndadm44chks8v2anl8v7pvel8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033761519799-734vurpndadm44chks8v2anl8v7pvel8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEcNSm_PdLPcYVv9vN_kuQvo9YfYfGuDM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033761519799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mapp</string>
+	<key>PROJECT_ID</key>
+	<string>kmassagechatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kmassagechatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033761519799:ios:6a6f018a47c10d69d4f532</string>
+</dict>
+</plist>

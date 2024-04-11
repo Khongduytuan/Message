@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1033761519799",
+    "project_id": "kmassagechatapp",
+    "storage_bucket": "kmassagechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033761519799:android:b751924e90425a87d4f532",
+        "android_client_info": {
+          "package_name": "com.example.mapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033761519799-nijkguj1jsga82pet5f8gjfls73ahdld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapp",
+            "certificate_hash": "a1e39bafca2a928a7870f398df00cd8a057a20eb"
+          }
+        },
+        {
+          "client_id": "1033761519799-incs8snna7tstttikbd13j1ra1pj5g09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HMqSvkne6qD3o5XVwMO8UIg6hV4zymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033761519799-incs8snna7tstttikbd13j1ra1pj5g09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033761519799-734vurpndadm44chks8v2anl8v7pvel8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
